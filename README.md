@@ -33,7 +33,7 @@
 <body>
     <h1>Bienvenido a mi Página Web</h1>
     
-    <p>Esta es una página web simple creada como ejemplo. Contiene un título principal, un párrafo descriptivo, una imagen y un enlace. El diseño es responsive y se adapta a diferentes tamaños de pantalla.</p>
+    <p>Esta es una página web simple creada como ejemplo. Contiene un título principal, un párrafo descriptivo, una imagen y un enlace.</p>
     
     <img src="https://via.placeholder.com/800x400" alt="Imagen de ejemplo">
     
