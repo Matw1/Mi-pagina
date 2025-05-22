@@ -35,7 +35,7 @@
     
     <p>Esta es una página web simple creada como ejemplo. Contiene un título principal, un párrafo descriptivo, una imagen y un enlace.</p>
     
-    <img src="https://via.placeholder.com/800x400" alt="Imagen de ejemplo">
+    <img src="https://via.placeholder.com/800x40](https://i.pinimg.com/736x/07/cd/7a/07cd7a47b5963057198240350262b836.jpg)0" alt="Imagen de ejemplo">
     
     <p>Visita <a href="https://github.com" target="_blank">GitHub</a> para aprender más sobre desarrollo web y alojamiento de proyectos.</p>
 </body>
